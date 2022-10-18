@@ -1,0 +1,4 @@
+1. git status => Con esto puedo saber que archivos nuevos tengo que no estan en el repositorio
+2. git add . => con esto agrego los archivos al repositorio
+3. git commit -m "Cargando nuevos archivos" => Le asigno un nombre entre las comillas a lo que estoy cargando
+4.git push -u origin main
